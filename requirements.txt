@@ -1,0 +1,7 @@
+flask
+google-generativeai
+langchain
+pandas
+
+flask-socketio
+flask-cors
