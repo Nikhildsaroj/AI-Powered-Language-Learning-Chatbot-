@@ -73,4 +73,4 @@ The AI-powered chatbot integrates LLMs, speech synthesis, and mistake analysis t
 ![image](https://github.com/user-attachments/assets/a4dd9740-4950-4953-8750-80c40403c977)
 
 - **Audio File:** [Click Here](https://drive.google.com/file/d/1yihuAoiYGx6ZiX4pWmQLl8Q5hBPC0XNR/view?usp=sharing)
-- **Jupyter Notebook:** [Click Here](https://drive.google.com/file/d/1uOpjrOBV-57rER6UHimWfl2BmxQYsiq2/view?usp=sharing)
+-
