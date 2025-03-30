@@ -66,5 +66,11 @@ The chatbot maintains a database (`mistakes.db`) with a table to store:
 The AI-powered chatbot integrates LLMs, speech synthesis, and mistake analysis to create a dynamic language learning experience. By providing corrections and personalized feedback, it helps learners improve their skills effectively. The integration of Flask with an interactive UI makes the chatbot engaging and immersive. Future updates will further enhance its usability and user engagement.
 
 ## Output Links
+![image](https://github.com/user-attachments/assets/e8b981fa-9dce-4cdc-9e0e-c950ededd3bd)
+ 
+ 
+![image](https://github.com/user-attachments/assets/c98183d3-a404-43b1-aad8-fa458a0ee8b2)
+![image](https://github.com/user-attachments/assets/a4dd9740-4950-4953-8750-80c40403c977)
+
 - **Audio File:** [Click Here](https://drive.google.com/file/d/1yihuAoiYGx6ZiX4pWmQLl8Q5hBPC0XNR/view?usp=sharing)
 - **Jupyter Notebook:** [Click Here](https://drive.google.com/file/d/1uOpjrOBV-57rER6UHimWfl2BmxQYsiq2/view?usp=sharing)
