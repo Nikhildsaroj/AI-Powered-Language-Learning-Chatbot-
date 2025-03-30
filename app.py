@@ -8,8 +8,8 @@ import sqlite3
 from deep_translator import GoogleTranslator
 
 # Set up Google API Key
-genai.configure(api_key="AIzaSyDG3s_9XGk1SM0LWMUOdqnznMGdW8jd8-U")
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro-latest", google_api_key="AIzaSyDG3s_9XGk1SM0LWMUOdqnznMGdW8jd8-U")
+genai.configure(api_key="api_key")
+llm = ChatGoogleGenerativeAI(model="gemini-1.5-pro-latest", google_api_key="api_key")
 
 app = Flask(__name__)
 
